@@ -9,4 +9,4 @@
 - 📊 Aspiring to graduate successfully from UTM and pursue a career as a data analyst
 - 🔗 How to connect with me?
  GitHub: https://jiayee201.github.io/
- Linkedln:
+ Linkedln: www.linkedin.com/in/jia-yee-jia-yee-19859b33a
