@@ -29,7 +29,7 @@
 <a href="https://www.instagram.com/yee0201jia/profilecard/?igsh=bXZzdGVsazk3cWNl" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40">
 </a>
-<a href="www.linkedin.com/in/lee-jia-yee-19859b33a" target="_blank">
+<a href="https://www.linkedin.com/in/lee-jia-yee-19859b33a" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="40">
 </a>
 <a href="https://github.com/JiaYee201" target="_blank">
