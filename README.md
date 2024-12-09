@@ -7,7 +7,7 @@
 - 📊 Aspiring to graduate successfully from UTM and pursue a career as a data analyst
 - 🔗 How to connect with me? <br>
   Email: lee03180504@gmail.com
- 
+
 
 ## Skills
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
@@ -17,13 +17,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code Logo" width="50">
 <br>
 <br>
- 
+  
+## Social
 ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+<br>
 
-
-## Social
 <a href="https://www.facebook.com/jia.yee.92123?mibextid=JRoKGi" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40">
 </a>
@@ -36,5 +36,17 @@
 <a href="https://github.com/JiaYee201" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40">
 </a>
+<br>
+
+
+
+## My Github Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JiaYee201&show_icons=true&theme=default)
+<br>
+![GitHub Streak](https://streak-stats.demolab.com/?user=JiaYee201&theme=default)
+<br>
+[View my GitHub Contribution Graph](https://github.com/JiaYee201)
+
+
 
 
