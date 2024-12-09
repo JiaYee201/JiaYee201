@@ -1,6 +1,7 @@
 ## Hello everyone🤗Nice to meet you all🙌
 
 - 👩‍💻 A first year student studying Computer Science (Data enginnering) at Universiti Teknologi Malaysia(UTM)
+- 🗺️ Come from Johor, Kulai. I’m excited to be here
 - 🎮 Enjoy playing badminton and watching variety shows in leisure time
 - 👯 Excited to collaborate with my team members on all projects
 - 📊 Aspiring to graduate successfully from UTM and pursue a career as a data analyst
