@@ -18,12 +18,12 @@
 <br>
 <br>
   
-## Social
 ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
 <br>
 
+## Social
 <a href="https://www.facebook.com/jia.yee.92123?mibextid=JRoKGi" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40">
 </a>
