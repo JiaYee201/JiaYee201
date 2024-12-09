@@ -45,7 +45,6 @@
 <br>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JiaYee201&theme=default)
 <br>
-[View my GitHub Contribution Graph](https://github.com/JiaYee201)
 
 
 
