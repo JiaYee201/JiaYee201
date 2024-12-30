@@ -7,6 +7,13 @@
 - 📊 Aspiring to graduate successfully from UTM and pursue a career as a data analyst
 - 🔗 How to connect with me? <br>
   Email: lee03180504@gmail.com
+  <br>
+  <br>
+
+## My E-portfolio
+Come and explore who I am [here](https://jiayee201.github.io/)!🤩
+<br>
+<br>
 
 
 ## Skills
@@ -21,6 +28,8 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
 <br>
 
 ## Social
